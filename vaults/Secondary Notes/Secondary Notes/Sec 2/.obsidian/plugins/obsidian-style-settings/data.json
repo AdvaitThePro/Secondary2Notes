@@ -1,0 +1,17 @@
+{
+  "minimal-style@@ax1@@light": "#FF0000",
+  "minimal-style@@workspace-background-translucent@@light": "#FFFFFF",
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-advanced@@cursor": "crosshair",
+  "minimal-style@@ax2@@light": "#18157B",
+  "minimal-style@@ui1@@light": "#6B6B6B",
+  "ul-theme-settings@@ul-color-accent": "ul-red",
+  "ul-theme-settings@@ul-theme-light": "ul-shark-lt",
+  "ul-theme-settings@@ul-theme-dark": "ul-obplus-dt",
+  "ul-theme-settings@@grad": false,
+  "ul-theme-settings@@ul-floating-ribbon": true,
+  "shimmering-focus@@show-ribbon": true,
+  "minimal-style@@base@@light": "#24AD2A",
+  "minimal-style@@bg3@@light": "#062B11C9",
+  "minimal-style@@bg1@@light": "#1E7225"
+}

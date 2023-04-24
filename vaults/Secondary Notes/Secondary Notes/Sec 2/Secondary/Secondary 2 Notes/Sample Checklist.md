@@ -1,0 +1,3 @@
+- [ ] Does it address question requirements?
+- [ ] Am I paraphrasing/lifting?
+- [ ] Do I have common words? refer to [[common words substitution list]]  formore

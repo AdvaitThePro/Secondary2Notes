@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
   "cssTheme": "Night Owl",
   "translucency": false,
-  "nativeMenus": false,
   "theme": "obsidian",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "accentColor": "",
+  "nativeMenus": true
 }

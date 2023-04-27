@@ -23,4 +23,4 @@ Week: 4
 
 ![[History_Japanese_Occupation_PEEL.pdf.pdf]]
 
-**************************************************Memorise the stuff inside the document.**************************************************
+**Memorise the stuff inside the document.**
